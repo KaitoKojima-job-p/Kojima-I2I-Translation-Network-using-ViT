@@ -18,7 +18,7 @@ from models_vgg import *
 from datasets import *
 #from model_trans import *
 # testの方のgeneratorを設定
-from z_torch_test_ver2 import *
+from model_mynet import *
 
 from utils import *
 

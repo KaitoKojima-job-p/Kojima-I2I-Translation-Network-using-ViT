@@ -25,12 +25,15 @@ ARにおける画像変換ネットワークを用いた金属質感表現技術
 - datasets/ 屋内外環境の合成データセット（indoor/outdoor）と作成スクリプト
 
 
-## 論文
-- paper_ja_ssii2025.pdf 
-  SSII2025（第31回画像センシングシンポジウム）に投稿した日本語版論文です。
+## 論文・発表資料
+- SSII2025（第31回画像センシングシンポジウム）
+  - [論文] paper_ja_ssii2025.pdf
+  - [ポスター] [poster_ssii2025.pdf]
 
-- paper_en_cgi2025.pdf  
-  CGI 2025（Computer Graphics International 2025）に投稿した英語版論文です。
+- CGI2025（Computer Graphics International 2025）
+  - [論文] paper_en_cgi2025.pdf  
+  - [発表スライド] [presentation_cgi2025.pdf]
+
 
 ## 作者
 小島 魁斗 / Kaito Kojima
